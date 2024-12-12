@@ -44,18 +44,4 @@ body:
       label: Details of Your Suggestion or Bug
       description: Provide a clear and detailed explanation of your request or issue.
       placeholder: Explain what you want or describe the problem in detail.
-
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant Log Output
-      description: Please include any relevant log output to help us diagnose the issue.
-      placeholder: Paste logs here.
-
-  - type: checkboxes
-    id: code_of_conduct
-    attributes:
-      label: Code of Conduct Agreement
-      description: By submitting this issue, you agree to follow the [Code of Conduct](../blob/main/.github/CODE_OF_CONDUCT.md).
-      options:
-        - label: I agree to follow this project's Code of Conduct
+t
