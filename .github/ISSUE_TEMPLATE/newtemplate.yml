@@ -1,4 +1,6 @@
 ---
+name: "Bug report"
+description: "Thank you for reporting a bug!"
 # A list of tasty fruits
 - Apple
 - Orange
