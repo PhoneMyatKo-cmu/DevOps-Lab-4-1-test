@@ -1,28 +1,7 @@
-form:
-  fields:
-    - name: "contact_details"
-      label: "Contact Details"
-      type: "text"
-      placeholder: "ex. Sertha Taweewattana"
-    - name: "request_thanks"
-      label: "Thanks for taking the time to fill out this bug report!"
-      type: "info"
-    - name: "type_of_request"
-      label: "Type of request"
-      type: "dropdown"
-      options:
-        - "New Feature"
-        - "Bug Report"
-        - "Enhancement"
-    - name: "os_suggestion"
-      label: "What is the OS which you want to suggest?"
-      type: "dropdown"
-      options:
-        - "Windows"
-        - "macOS"
-        - "Linux"
-        - "Other"
-    - name: "details"
-      label: "What are the details of your suggestion?"
-      type: "textarea"
-      placeholder: "Explain what do you want"
+---
+# A list of tasty fruits
+- Apple
+- Orange
+- Strawberry
+- Mango
+...
